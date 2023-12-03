@@ -1,4 +1,3 @@
-![Telegram logo](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Symbol.png)
 <h1 align="center"> HLTV Telegram Bot </h1>
 <h3 align="center">Телеграм бот для быстрого доступа к информации с HLTV.org</h3>
 
