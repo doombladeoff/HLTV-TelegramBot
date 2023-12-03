@@ -1,6 +1,4 @@
-# HLTV-TelegramBot
-
-![Telegram logo]([https://static.wikia.nocookie.net/diarchy-mapping/images/a/af/Discord_Logo.png/revision/latest?cb=20190402103046](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Symbol.png))
+![Telegram logo](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Symbol.png)
 <h1 align="center"> HLTV Telegtram Bot </h1>
 <h3 align="center">Телеграм бот для быстрого доступа к информации с HLTV.org</h3>
 
